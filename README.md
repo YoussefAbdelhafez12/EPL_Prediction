@@ -10,16 +10,6 @@
 This project builds an end-to-end machine learning pipeline on 3,800+ EPL matches spanning 11 seasons (2015–2026). The goal is to predict the outcome of any match — **Home Win**, **Draw**, or **Away Win** — using only pre-match historical data (no leakage), and to simulate the full 2025–26 season final standings using Monte Carlo methods.
 
 ---
-
-## 👥 Team Members
-
-| Name |
-|------|
-| Youssef Hassan |
-| Moaz Abdelaleem |
-| Omar Khaled |
-| Omar Labib |
-
 ---
 
 ## 📁 Project Structure
